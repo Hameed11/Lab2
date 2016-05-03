@@ -10,10 +10,10 @@ while count <= 5
         puts number
         
     elsif guess > number
-        puts "your guess is higher"
+        puts "your guess is high"
         puts number
     elsif guess < number
-        puts "your guess is lower"
+        puts "your guess is low"
         puts number
     end
     
