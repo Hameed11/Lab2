@@ -1,5 +1,4 @@
 count = 1
-
 puts "Try to guess a number between 1 and 100 : chance #{count} " 
 
 while count <= 5
